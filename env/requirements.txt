@@ -1,0 +1,9 @@
+pillow
+torch
+torchvision
+torchinfo
+matplotlib
+numpy==1.12.0
+scipy
+pandas
+wget
