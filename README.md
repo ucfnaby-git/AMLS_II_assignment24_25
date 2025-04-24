@@ -73,7 +73,7 @@ All model checkpoints, logs, and results are stored in `A/results/`. The submiss
 -   `myssim.py` must remain unchanged to ensure compatibility with official evaluation standards.
 
 ## 📁 More detailed folder structure
-
+```
 \AMLSII_24-25_SN24070891
 │  
 │  main.py
@@ -122,3 +122,4 @@ All model checkpoints, logs, and results are stored in `A/results/`. The submiss
 └─env
         environment.yml
         requirements.txt
+```
